@@ -14,14 +14,6 @@ class Header extends Component {
         <div className="headerTitle">
           JAMES S. VANN INSURANCE AGENCY, INC.
         </div>
-          <div className="linkContainer">
-            <div className="aboutHeader">
-              About
-            </div>
-            <div className="contactHeader">
-              Contact Us
-            </div>
-          </div>
         </div>
     );
   }

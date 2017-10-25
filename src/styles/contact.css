@@ -7,9 +7,9 @@
   margin-left:10vw;
   margin-right:10vw;
   padding-top: 4vw;
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 2.8vw;
-  color: #886B2A;
+  color: #6B671B;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
 }
 h1:before,
 h1:after {
- background-color: #886B2A;
+ background-color: #6B671B;
  content: "";
  display: inline-block;
  height: 1px;
@@ -36,7 +36,7 @@ h1:after {
 }
 
 .contactTextTitle {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
   text-align: center;
@@ -63,7 +63,7 @@ h1:after {
 }
 
 .contactText {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
   text-align: center;
@@ -72,7 +72,7 @@ h1:after {
 
 .contactCompany {
   padding-top: 1vw;
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   text-decoration-line: underline;
   color: black;
@@ -80,29 +80,30 @@ h1:after {
 }
 
 .contactPhone {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
   text-align: center;
 }
 
 .contactEmail {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
   text-align: center;
 }
 
 .contactHoursTitle {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
   text-align: center;
 }
 
 .contactHours {
-  font-family: 'Cinzel', serif;
+  font-family: 'Prociono', serif;
   font-size: 1.5vw;
   color: black;
-  text-align: center;
+  text-align: left;
+  margin-left: 6vw;
 }

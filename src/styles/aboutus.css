@@ -1,6 +1,6 @@
 
 .aboutUsContainer {
-  height: 38vw;
+  height: 50vw;
   display: flex;
   flex-direction: row;
   text-align: center;
@@ -10,9 +10,9 @@
 }
 
 .aboutUsTitle {
-  font-family: 'Hind Siliguri', sans-serif;
+  font-family: 'Prociono', serif;
   font-size: 2.8vw;
-  color: #886B2A;
+  color: #6B671B;
   padding-top: 2vw;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 h1:before,
 h1:after {
- background-color: #886B2A;
+ background-color: #6B671B;
  content: "";
  display: inline-block;
  height: 1px;
@@ -42,13 +42,14 @@ h1:after {
 .itemContainer {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
   width: 80vw;
-  padding-top: 5vw;
+  padding-top: 9vw;
+  padding-left: 2vw;
 }
 
 .itemTitle {
-  font-family: 'Hind Siliguri', sans-serif;
+  font-family: 'IM+Fell+English+SC';
   font-size: 1.8vw;
 }
 
@@ -57,11 +58,11 @@ h1:after {
   font-size: 1vw;
 }
 
-.homeRepairServices {
+.homeInsuranceServices {
   padding-top: 3vw;
   padding-left: 1vw;
   padding-right: 1vw;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/tapemeasure.jpg");
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/smallhome.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 25vw;
@@ -69,11 +70,11 @@ h1:after {
   color: white;
 }
 
-.computerItServices {
+.autoInsuranceServices {
   padding-top: 3vw;
   padding-left: 1vw;
   padding-right: 1vw;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/computers.jpg");
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/gmcyukon.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 25vw;
@@ -81,11 +82,47 @@ h1:after {
   color: white;
 }
 
-.realtorServices {
+.lifeInsuranceServices {
   padding-top: 3vw;
   padding-left: 1vw;
   padding-right: 1vw;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/bluehouse.jpg");
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/olderpeople.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.commercialInsuranceServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/mill.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.motorcycleInsuranceServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/motorcycle.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.boatRVInsuranceServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/rv.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 25vw;

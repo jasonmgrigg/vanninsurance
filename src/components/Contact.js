@@ -24,14 +24,14 @@ class Body extends Component {
                   Please use the below phone number or email to contact us at anytime!
                 </div>
                 <div className="contactCompany">
-                  Grigg Holdings LLC
+                  James S. Vann Insurance Agency, Inc.
                 </div>
                 <div className="contactPhone">
-                  (919) 932-0835 (Call/Text)
+                  (919) 663-2521
                 </div>
-                <a href="mailto: jason@griggholdingsllc.com">
+                <a href="mailto: mitchvann@centurylink.net">
                   <div className="contactEmail">
-                    jason@griggholdingsllc.com
+                    mitchvann@centurylink.net
                   </div>
                 </a>
               </div>
@@ -55,7 +55,7 @@ class Body extends Component {
                   Friday: 9:30 am – 5:30 pm
                 </div>
                 <div className="contactHours">
-                  Saturday: By Appointment
+                  Saturday: Closed
                 </div>
                 <div className="contactHours">
                   Sunday: Closed
