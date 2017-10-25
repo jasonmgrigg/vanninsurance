@@ -1,0 +1,108 @@
+.contactContainer {
+  height: 38vw;
+  background-color: #F4F4F4;
+}
+
+.contactTitle {
+  margin-left:10vw;
+  margin-right:10vw;
+  padding-top: 4vw;
+  font-family: 'Cinzel', serif;
+  font-size: 2.8vw;
+  color: #886B2A;
+}
+
+h1 {
+ overflow: hidden;
+ text-align: center;
+}
+h1:before,
+h1:after {
+ background-color: #886B2A;
+ content: "";
+ display: inline-block;
+ height: 1px;
+ position: relative;
+ vertical-align: middle;
+ width: 40vw;
+}
+h1:before {
+ right: 0.5em;
+ margin-left: -50%;
+}
+h1:after {
+ left: 0.5em;
+ margin-right: -50%;
+}
+
+.contactTextTitle {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+  padding-top: 2vw;
+}
+
+.contactTextContainer {
+  padding-top: 2vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.contactInfoContainer {
+  width: 30vw;
+  border-style: solid;
+  border-width: thin;
+}
+
+.contactHoursContainer {
+  width: 30vw;
+  border-style: solid;
+  border-width: thin;
+}
+
+.contactText {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+  padding-top: 2vw;
+}
+
+.contactCompany {
+  padding-top: 1vw;
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  text-decoration-line: underline;
+  color: black;
+  text-align: center;
+}
+
+.contactPhone {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+}
+
+.contactEmail {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+}
+
+.contactHoursTitle {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+}
+
+.contactHours {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+}

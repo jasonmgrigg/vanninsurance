@@ -1,0 +1,309 @@
+
+  .servicesContainer {
+    background-color: gray;
+    height: 100%;
+    background-image: url(../pictures/feetup.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    background-attachment:fixed;
+
+
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  .servicesTitle {
+    font-family: 'Fresca', sans-serif;
+    font-size: 2vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    margin-left: 41vw;
+  }
+
+  .servicesDescription {
+    font-family: 'Fresca', sans-serif;
+    font-size: 1vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    margin-left: 42vw;
+    margin-top: -.5vw;
+    width: 33vw;
+  }
+
+  .homeServicesTitle {
+    font-family: 'Fresca', sans-serif;
+    font-size: 2.5vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    margin-left: 1vw;
+  }
+
+  .servicesListContainer {
+    text-decoration: none;
+    height: 44vw;
+  }
+
+  .servicesItem {
+    font-family: 'Fresca', sans-serif;
+    font-size: 1.5vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    text-decoration: none;
+    width: 13vw;
+  }
+
+  .servicesItem:hover {
+    color: gray;
+  }
+
+  .servicesList {
+    text-decoration: none;
+    margin-top: -6.5vw;
+  }
+
+  .landscapingShowMore {
+    margin-left: 18vw;
+    margin-top: 7vw;
+    width: 30vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .generalCarpentryShowMore {
+    margin-left: 18vw;
+    margin-top: 5vw;
+    width: 30vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .plumbingShowMore {
+    margin-left: 18vw;
+    margin-top: 3vw;
+    width: 30vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .roofRepairShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: 1vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .doorRepairShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -1vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .paintingShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -3vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .deckShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -5vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .pressureWashingShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -7vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .gutterCleaningShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: 2vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .windowCleaningShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: 0vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .pictureHangingShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -2vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .filterReplacementShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -4vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .detectorBatteriesShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -6vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .carWashingShowMore {
+    width: 30vw;
+    margin-left: 18vw;
+    margin-top: -8vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .appleImacRepairShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: 5vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .smartPhoneRepairShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: 3vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .homeNetworkingShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: 1vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .printerMaintenanceShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: -1vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .technicalTrainingShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: -3vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .webDevelopmentShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: -5vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }
+
+  .techServicesContainer {
+    margin-left: 81vw;
+    margin-top: -48vw;
+    background-color: gray;
+    margin-bottom: 24vw;
+  }
+
+  .techServicesTitle {
+    font-family: 'Fresca', sans-serif;
+    font-size: 2.5vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+  }
+
+  .techServicesList {
+    text-decoration: none;
+    margin-left: -1vw;
+    width: 13vw
+  }
+
+  .realtorServicesTitle {
+    font-family: 'Fresca', sans-serif;
+    font-size: 2.5vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    margin-top: 3vw;
+  }
+
+  .homePrepShowMore {
+    width: 30vw;
+    margin-left: -35vw;
+    margin-top: -5vw;
+    background-color: gray;
+    color: white;
+    border-radius: 1vw;
+    padding: 1vw;
+  }

@@ -1,0 +1,109 @@
+
+.aboutUsContainer {
+  height: 38vw;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  padding-top: 2vw;
+}
+
+.aboutUsTitle {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 2.8vw;
+  color: #886B2A;
+  padding-top: 2vw;
+}
+
+h1 {
+ overflow: hidden;
+ text-align: center;
+}
+h1:before,
+h1:after {
+ background-color: #886B2A;
+ content: "";
+ display: inline-block;
+ height: 1px;
+ position: relative;
+ vertical-align: middle;
+ width: 40vw;
+}
+h1:before {
+ right: 0.5em;
+ margin-left: -50%;
+}
+h1:after {
+ left: 0.5em;
+ margin-right: -50%;
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 80vw;
+  padding-top: 5vw;
+}
+
+.itemTitle {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 1.8vw;
+}
+
+.itemText {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 1vw;
+}
+
+.homeRepairServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/tapemeasure.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.computerItServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/computers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.realtorServices {
+  padding-top: 3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../pictures/bluehouse.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vw;
+  width: 26.6vw;
+  color: white;
+}
+
+.findOutMoreContainer {
+  padding-top: 1vw;
+  padding-left: 4.5vw;
+
+}
+
+.findOutMore {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 1vw;
+  background-color: #886B2A;
+  color: white;
+  border-radius: 1vw;
+  width: 8vw;
+}
