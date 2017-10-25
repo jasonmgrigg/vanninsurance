@@ -11,7 +11,17 @@ class Header extends Component {
   render() {
     return (
       <div className="fullHeader">
-        <div className="headerTitle">GRIGG HOLDINGS, LLC</div>
+        <div className="headerTitle">
+          JAMES S. VANN INSURANCE AGENCY, INC.
+        </div>
+          <div className="linkContainer">
+            <div className="aboutHeader">
+              About
+            </div>
+            <div className="contactHeader">
+              Contact Us
+            </div>
+          </div>
         </div>
     );
   }

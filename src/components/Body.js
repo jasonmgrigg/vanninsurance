@@ -16,17 +16,17 @@ class Body extends Component {
       <div className="bodyContainer">
         <div className="titleContainer">
           <div className="titleText">
-            WELCOME TO GRIGG HOLDINGS, LLC
+            James S. Vann Insurance Agency, Inc.
           </div>
           <div className="titleDescription">
-            Home and Technical Repair Services
+            Providing Auto, Home, Life, Commercial, Motorcycle, RV, and Boat Insurance Coverage
           </div>
           <div className="phoneNumber">
-            (919) 932-0835
+            (919) 663-2521
           </div>
         </div>
         <div className="titleComputerContainer">
-          
+
         </div>
       </div>
     )

@@ -1,15 +1,36 @@
   .fullHeader {
-    background-color: black;
     width: 100%;
-    height: 4vw;
+    height: 6vw;
     text-align: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
+    background-image: url("../pictures/independentagent.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: left;
   }
 
   .headerTitle {
-    font-family: 'Cinzel', serif;
+    font-family: 'IM+Fell+English+SC';
     font-size: 1.5vw;
-    color: #886B2A;
+    color: #466183;
+    margin-top: 2vw;
+  }
+
+  .linkContainer {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Fredericka+the+Great';
+    font-size: 1.5vw;
+    color: #466183;
+    margin-top: 2vw;
+    margin-left: 38vw;
+  }
+
+  .aboutHeader {
+    margin-right: 3vw;
+  }
+
+  .contactHeader {
   }
